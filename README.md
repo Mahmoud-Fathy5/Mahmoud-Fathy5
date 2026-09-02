@@ -72,7 +72,6 @@ contact: ma7moud200600@gmail.com
       <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="44" height="44" alt="C" /></a>
       <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="44" height="44" alt="Python" /></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="44" height="44" alt="JavaScript" /></a>
-      <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="44" height="44" alt="TypeScript" /></a>
     </td>
   </tr>
 
@@ -83,7 +82,6 @@ contact: ma7moud200600@gmail.com
       <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="44" height="44" alt="PyTorch" /></a>
       <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="44" height="44" alt="TensorFlow" /></a>
       <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="44" height="44" alt="Scikit-Learn" /></a>
-      <a href="https://opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="44" height="44" alt="OpenCV" /></a>
       <br>
       <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/Hugging_Face-Spaces_%26_Models-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
       <a href="https://xgboost.readthedocs.io/" target="_blank"><img src="https://img.shields.io/badge/XGBoost-Ensemble_Learning-185886?style=flat-square&logo=scikitlearn&logoColor=white" alt="XGBoost" /></a>
@@ -249,7 +247,7 @@ contact: ma7moud200600@gmail.com
 <!-- 🐍 CONTRIBUTION SNAKE GAME                               -->
 <!-- ======================================================== -->
 
-### 🐍 Contribution Eating Snake
+### 🟩 Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Game" />
